@@ -1,5 +1,5 @@
 # Blog
 
-My blog. Jekyll-based.
+I'm tryin to have a blog here ..
 
 
